@@ -6,16 +6,27 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Shantanu Bhadoria
+email: shantanu@cpan.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi, my name is Shantanu Bhadoria. I am a golang Gopher, Python Ninja and Perl Monk.
+  Welcome to my home page. I currently live in Singapore . I am a regular contributor
+  and a author of many open source packages at PyPI and CPAN. My work can be accessed
+  at GoDoc, NPM, MetaCPAN, PyPi, Atmosphere or at GitHub. Get in touch with me at
+  (+91)-7406111818
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.shantanubhadoria.com" # the base hostname & protocol for your site
+twitter_username: shaggedelic
+github_username:  shantanubhadoria
+
+theme: jekyll-theme-hacker
+
+# # Defaults
+# defaults:
+#   - scope:
+#     path: assets/img
+#   - values:
+#     img: true
 
 # Build settings
 markdown: kramdown
